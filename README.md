@@ -1179,6 +1179,7 @@ Tools for regulatory compliance, policy management, financial crime detection, a
 - [EU AI Regulation Decoded](https://euaird.vercel.app/) - **[Open / Academic]** Free practitioner reference mapping EU AI Act obligations to the specific evidence an auditor expects — by role, risk tier, and deadline — with a browser-based audit-readiness checklist and a CC BY 4.0 machine-readable [obligation-to-evidence dataset](https://github.com/Kroniquedubaboo/eu-ai-act-obligation-evidence-dataset); not legal advice.
 
 ---
+- [SanctionsKit Node.js SDK](https://github.com/SanctionsKit/sanctionskit-node) - MIT-licensed JavaScript and TypeScript client for sanctions screening, saved evidence, and batch checks through a hosted API, with a free synthetic sandbox and paid production access.
 
 ## Online Dispute Resolution (ODR)
 
